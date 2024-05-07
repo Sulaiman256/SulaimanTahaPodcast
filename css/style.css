@@ -116,8 +116,8 @@ main {
   margin: 5px 0;
 }
 .userPerfil img {
-  max-width: 25px; /* Establecer el tamaño máximo de la imagen */
-  border-radius: 50%; /* Hacer que la imagen tenga forma circular */
+  max-width: 25px;
+  border-radius: 50%;
   margin-left: 20px;
   margin-bottom: 33px;
   margin-top: 30px;
@@ -171,23 +171,23 @@ main {
   display: flex;
   align-items: center;
   position: relative;
-  margin-bottom: 20px; /* Margen inferior para separarlo del borde inferior del padre */
+  margin-bottom: 20px;
 }
 
 .visualizacionesComentarios > div {
-  margin-right: 20px; /* Espacio entre los elementos */
+  margin-right: 20px;
   margin-top: 20px;
-  white-space: nowrap; /* Evitar que el contenido se divida en múltiples líneas */
+  white-space: nowrap;
 }
 
 .visualizacionesComentarios > i {
   position: absolute;
-  right: 1px; /* Ajuste de posición desde el borde izquierdo */
+  right: 1px;
 }
 
 .visualizacionesComentarios > span {
   position: absolute;
-  right: 20px; /* Ajuste de posición desde el borde derecho */
+  right: 20px;
 }
 
 .divFooter {
