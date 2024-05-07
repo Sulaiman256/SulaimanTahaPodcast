@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<podcast xsi:noNamespaceSchemaLocation="esquema_podcast.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <posts>
+        <post titulo=" La Tecnologia" fecha="2024-04-15">
+            <autor>
+                <nombre>Juan</nombre>
+                <avatar>https://thumbs.dreamstime.com/z/icono-vectorial-de-dos-avatares-color-del-concepto-tecnologia-futura-simbolo-avatar-azul-aislado-puede-ser-usado-para-web-movil-149155407.jpg</avatar>
+            </autor>
+            <introduccion>Ultimas tendencias en tecnologia y gadgets.</introduccion>
+            <descripcion>En este podcast, nos sumergimos en las ultimas tendencias tecnologicas y los gadgets mas innovadores del momento. Desde inteligencia artificial hasta dispositivos portatiles y avances en la nube, exploramos como la tecnologia esta transformando nuestra vida diaria y el futuro que nos espera en un mundo cada vez mas digitalizado.</descripcion>
+            <tiempo_lectura>30</tiempo_lectura>
+            <num_visualizaciones>5000</num_visualizaciones>
+            <num_comentarios>20</num_comentarios>
+            <num_megusta>350</num_megusta>
+            <imagen>https://www.ikusi.com/mx/wp-content/uploads/sites/2/2022/06/post_thumbnail-4efabca9bd56b38edc0058c4ba006481.jpeg</imagen>
+        </post>
+        <post titulo="El Cine y Entretenimiento" fecha="2024-04-14">
+            <autor>
+                <nombre>Maria</nombre>
+                <avatar>https://static.vecteezy.com/system/resources/previews/011/971/604/non_2x/cinema-movie-logo-with-black-color-template-vector.jpg</avatar>
+            </autor>
+            <introduccion>Lo mejor del cine y las series de TV.</introduccion>
+            <descripcion>Descubre lo mejor del mundo del cine y las series de television en este apasionante podcast. Desde criticas de estrenos hasta entrevistas con directores y actores destacados, te mantenemos al dia con todo lo que necesitas saber sobre tus peliculas y programas favoritos, asi como las tendencias mas destacadas del entretenimiento actual.</descripcion>
+            <tiempo_lectura>45</tiempo_lectura>
+            <num_visualizaciones>8000</num_visualizaciones>
+            <num_comentarios>50</num_comentarios>
+            <num_megusta>600</num_megusta>
+            <imagen>https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg</imagen>
+        </post>
+        <post titulo="Los Deportes" fecha="2024-04-13">
+            <autor>
+                <nombre>Carlos</nombre>
+                <avatar>https://i.pinimg.com/736x/cd/e2/2c/cde22c412540bd2fdd84e4dfa747b911.jpg</avatar>
+            </autor>
+            <introduccion>Todo sobre futbol, baloncesto y mas.</introduccion>
+            <descripcion>Sumergente en el emocionante mundo del deporte con noticias de ultima hora, analisis profundos y debates apasionados sobre los eventos mas relevantes en el mundo deportivo. Desde futbol y baloncesto hasta tenis y eSports, exploramos todo lo relacionado con los deportes que apasionan a millones en todo el mundo.</descripcion>
+            <tiempo_lectura>25</tiempo_lectura>
+            <num_visualizaciones>3000</num_visualizaciones>
+            <num_comentarios>15</num_comentarios>
+            <num_megusta>250</num_megusta>
+            <imagen>https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2015/12/28/151228155737_personalidad_deporte_640x360_bbc_nocredit.jpg</imagen>
+        </post>
+        <post titulo="La Salud y Bienestar" fecha="2024-04-12">
+            <autor>
+                <nombre>Laura</nombre>
+                <avatar>https://thumbs.dreamstime.com/b/logo-del-icono-de-concepto-salud-corazon-forma-simple-rojo-con-la-linea-blanca-dentro-169861715.jpg</avatar>
+            </autor>
+            <introduccion>Consejos practicos para una vida saludable.</introduccion>
+            <descripcion>En busca de una vida mas saludable y equilibrada, este podcast ofrece consejos practicos respaldados por expertos en medicina y bienestar. Desde tecnicas de mindfulness hasta recomendaciones nutricionales, exploramos como podemos mejorar nuestra salud fisica y mental en un mundo cada vez mas ocupado.</descripcion>
+            <tiempo_lectura>40</tiempo_lectura>
+            <num_visualizaciones>6000</num_visualizaciones>
+            <num_comentarios>30</num_comentarios>
+            <num_megusta>400</num_megusta>
+            <imagen>https://production.listennotes.com/podcasts/salud-para-todos-podcast-salud-para-todos-UNzSO9eVJCj-4FxgWEwy2a3.1400x1400.jpg</imagen>
+        </post>
+
+
+        <post titulo="Islam y Pensamiento" fecha="2024-04-10">
+            <autor>
+                <nombre>Ahmad</nombre>
+                <avatar>https://static.vecteezy.com/system/resources/previews/003/111/376/original/muslim-man-and-avatar-vector.jpg</avatar>
+            </autor>
+            <introduccion>Explorando los principios del Islam y en como pensar para llegar al creador.</introduccion>
+            <descripcion>En este espacio reflexivo, exploramos los principios fundamentales del Islam y como estos afectan nuestra forma de pensar y vivir. Desde discusiones sobre espiritualidad hasta debates sobre la personalidad y pensamiento islamico contemporanea, buscamos comprender como el pensamiento lleva a una conexion mas profunda con el Creador segun la perspectiva islamica.</descripcion>
+            <tiempo_lectura>50</tiempo_lectura>
+            <num_visualizaciones>2000000</num_visualizaciones>
+            <num_comentarios>10</num_comentarios>
+            <num_megusta>150</num_megusta>
+            <imagen>https://cdn.pixabay.com/photo/2018/10/30/03/05/islam-3782623_1280.jpg</imagen>
+        </post>
+    </posts>
+</podcast>

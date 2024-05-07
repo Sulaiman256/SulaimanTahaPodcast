@@ -1,0 +1,60 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Mis Podcasts</title>
+        <link>https://sulaiman256.github.io/PodcastSulaimanv1/</link>
+        <description>Una seleccion de podcasts interesantes.</description>
+        <language>es</language>
+        <pubDate>Mon, 17 Apr 2024 00:00:00 GMT</pubDate>
+        <lastBuildDate>Mon, 17 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <item>
+            <title>La Tecnologia</title>
+           
+             <descripcion>En este podcast, nos sumergimos en las ultimas tendencias tecnologicas y los gadgets mas innovadores del momento. Desde inteligencia artificial hasta dispositivos portatiles y avances en la nube, exploramos como la tecnologia esta transformando nuestra vida diaria y el futuro que nos espera en un mundo cada vez mas digitalizado.</descripcion>
+            <language>es</language>
+            <pubDate>Fri, 15 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://ucarecdn.com/5f2b8f0c-4ed4-47cf-b84b-312dddec4eb5/" length="7.23 MB" type="audio/mpeg" />
+        </item>
+
+        <item>
+            <title>El Cine y Entretenimiento</title>
+           
+            <descripcion>Descubre lo mejor del mundo del cine y las series de television en este apasionante podcast. Desde criticas de estrenos hasta entrevistas con directores y actores destacados, te mantenemos al dia con todo lo que necesitas saber sobre tus peliculas y programas favoritos, asi como las tendencias mas destacadas del entretenimiento actual.</descripcion>
+            <language>es</language>
+            <pubDate>Thu, 14 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://ucarecdn.com/38cdee01-f12d-4a71-a248-33003bd9537c/" length="17.11 MB" type="audio/mpeg" />
+            
+        </item>
+
+        <item>
+            <title>Los Deportes</title>
+            
+                  <descripcion>Sumergente en el emocionante mundo del deporte con noticias de ultima hora, analisis profundos y debates apasionados sobre los eventos mas relevantes en el mundo deportivo. Desde futbol y baloncesto hasta tenis y eSports, exploramos todo lo relacionado con los deportes que apasionan a millones en todo el mundo.</descripcion>
+            <language>es</language>
+            <pubDate>Wed, 13 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://ucarecdn.com/6582c602-8b09-41b3-a864-a6420f971ed8/" length="38.63 MB" type="audio/mpeg" />
+            
+        </item>
+
+        <item>
+            <title>La Salud y Bienestar</title>
+            
+            <descripcion>En busca de una vida mas saludable y equilibrada, este podcast ofrece consejos practicos respaldados por expertos en medicina y bienestar. Desde tecnicas de mindfulness hasta recomendaciones nutricionales, exploramos como podemos mejorar nuestra salud fisica y mental en un mundo cada vez mas ocupado.</descripcion>
+            <language>es</language>
+            <pubDate>Tue, 12 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://ucarecdn.com/6d0f2c6b-94b8-4e1f-8725-071d9a044181/" length="19.35 MB" type="audio/mpeg" />
+            
+        </item>
+
+        <item>
+            <title>Islam y Pensamiento</title>
+            <descripcion>En este espacio reflexivo, exploramos los principios fundamentales del Islam y como estos afectan nuestra forma de pensar y vivir. Desde discusiones sobre espiritualidad hasta debates sobre la personalidad y pensamiento islamico contemporanea, buscamos comprender como el pensamiento lleva a una conexion mas profunda con el Creador segun la perspectiva islamica.</descripcion>
+            <language>es</language>
+            <pubDate>Sun, 10 Apr 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://ucarecdn.com/7737b5c5-a2c5-4771-909c-2e7c910479bd/" length="8 MB" type="audio/mpeg" />
+            
+        </item>
+
+    </channel>
+</rss>
